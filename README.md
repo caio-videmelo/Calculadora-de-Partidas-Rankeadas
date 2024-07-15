@@ -47,3 +47,23 @@ let level = determineLevel(performance);
 
 // Exibindo a mensagem de saída no console
 console.log("O Heroi", nameCharacter, "tem saldo de", performance, "e está no nível de", level);
+
+### Executando o Código
+Para executar o código, siga os passos abaixo:
+
+Certifique-se de ter o Node.js instalado em sua máquina.
+Clone este repositório.
+Navegue até o diretório do projeto.
+Execute o seguinte comando no terminal:
+
+node seu_arquivo.js
+
+Substitua seu_arquivo.js pelo nome do arquivo que contém o script JavaScript.
+
+Contribuições
+Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests.
+
+Licença
+Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para mais detalhes.
+
+Este `README.md` fornece uma visão geral do funcionamento do script, como executá-lo e informações adicionais sobre contribuições e licença. Ajuste conforme necessário para se adequar melhor ao seu projeto específico.
