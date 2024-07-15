@@ -57,8 +57,3 @@ Substitua seu_arquivo.js pelo nome do arquivo que contém o script JavaScript.
 
 ##### Contribuições
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests.
-
-###### Licença
-Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para mais detalhes.
-
-Este `README.md` fornece uma visão geral do funcionamento do script, como executá-lo e informações adicionais sobre contribuições e licença. Ajuste conforme necessário para se adequar melhor ao seu projeto específico.
